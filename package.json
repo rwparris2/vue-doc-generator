@@ -1,0 +1,23 @@
+{
+	"name": "vue-doc-generator",
+	"version": "1.0.0",
+	"main": "index.js",
+	"description": "A pretty good vuejs component documentation generator",
+	"repository": {
+		"url": "https://github.com/rwparris2/vue-doc-generator.git",
+		"type": "git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"babylon": "^6.18.0",
+		"esdoc": "^1.0.4",
+		"globby": "^8.0.1",
+		"lodash": "^4.17.5",
+		"mkdirp": "^0.5.1",
+		"rimraf": "^2.6.2",
+		"sanitize-filename": "^1.6.1",
+		"vue-template-compiler": "^2.5.16"
+	}
+}
