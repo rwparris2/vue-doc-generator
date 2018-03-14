@@ -2,6 +2,8 @@
 
 > A pretty good vuejs component documentation generator
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/)
@@ -29,6 +31,10 @@ to the rest of your app.
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/rwparris2/vue-doc-generator/issues)
+
+## Committing
+
+`npm run commit` launches a commit assistant to follow [commitizen guidelines](https://github.com/commitizen/cz-cli)
 
 ***
 
